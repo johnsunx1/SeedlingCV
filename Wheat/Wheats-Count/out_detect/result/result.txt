@@ -1,0 +1,3 @@
+123.jpg   predict_num:   203.59608459472656
+sp.jpg   predict_num:   305.5570373535156
+img_num: 2   predict_sum:   509.1531219482422
