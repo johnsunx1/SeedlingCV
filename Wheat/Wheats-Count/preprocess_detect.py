@@ -1,5 +1,5 @@
 '''
-Copyright (c) 2022  https://gitee.com/l1233   https://gitee.com/zhao-chuanfei  All rights reserved.
+Copyright (c) 2022  https://github.com/14385423  https://github.com/ZCFzhaochuanfei  All rights reserved.
 
 Reference source:
 
@@ -10,8 +10,6 @@ https://github.com/dyh/unbox_yolov5_deepsort_counting
 https://github.com/ultralytics/yolov5
 
 '''
-
-
 
 from PIL import Image
 import numpy as np
