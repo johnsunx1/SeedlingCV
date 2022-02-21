@@ -48,7 +48,7 @@ class RegTrainer(Trainer):
             self.device = torch.device("cuda")
             self.device_count = torch.cuda.device_count()
             # for code conciseness, we release the single gpu version
-            assert self.device_count == 2
+            assert self.device_count == 1
             logging.info('using {} gpus'.format(self.device_count))
         else:
             raise Exception("gpu is not available")

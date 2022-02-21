@@ -50,7 +50,7 @@ def parse_args():
 
     parser.add_argument('--batch-size', type=int, default=1,
                         help='train batch size')
-    parser.add_argument('--device', default='0,1', help='assign device')
+    parser.add_argument('--device', default='0', help='assign device')
     parser.add_argument('--num-workers', type=int, default=8,
                         help='the num of training process')
 
