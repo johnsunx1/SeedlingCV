@@ -16,7 +16,9 @@
 
 ## Project download
 
-### Project address          https://github.com/johnsunx1/SeedlingCV       https://gitee.com/deepbiology/seedlingcv
+### Project address      
+https://github.com/johnsunx1/SeedlingCV     
+https://gitee.com/deepbiology/seedlingcv
 
 `$ cd Wheat`
 
