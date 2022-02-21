@@ -16,7 +16,9 @@
 
 ## Project download
 
-`$ git clone 仓库地址  # clone repo` 
+### Project address      
+https://github.com/johnsunx1/SeedlingCV     
+https://gitee.com/deepbiology/seedlingcv
 
 `$ cd Wheat`
 
@@ -137,4 +139,4 @@ https://github.com/14385423
 
 https://github.com/ZCFzhaochuanfei
 
-# For more information, please refer to：
+
