@@ -22,8 +22,10 @@
 
 ### Project address      
 https://github.com/johnsunx1/SeedlingCV     
+
 https://gitee.com/deepbiology/seedlingcv
 
+https://sourceforge.net/projects/seedlingcv/
 `$ cd Wheat`
 
 `$ pip install -r requirements.txt  # install dependencies` 
