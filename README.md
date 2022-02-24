@@ -1,5 +1,9 @@
 # Environment configuration：
 
+   ### A better reading experience:   https://johnsunx1.github.io/SeedlingCV-Instraction/
+   
+
+
 - Python>=3.7 
 
 - pytorch>=1.7
