@@ -4,7 +4,7 @@
 
 This package is a python package used to help users process wheat field pictures, suitable for processing wheat field pictures in the two-leaf to three-leaf period.
 
-you can now Download the project at  https://github.com/johnsunx1/SeedlingCV  or   https://gitee.com/deepbiology/seedlingcv  
+you can now Download the project at  https://github.com/johnsunx1/SeedlingCV  ,  https://gitee.com/deepbiology/seedlingcv   or  https://sourceforge.net/projects/seedlingcv/
 
 This is a documentation to help users use python packages. The main functions of this package include identification of wheat seedlings and vacancy statistics of wheat fields.  
 
