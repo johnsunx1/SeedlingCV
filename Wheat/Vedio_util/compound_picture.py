@@ -32,6 +32,7 @@ import numpy as np
 img_dir = 'picture'
 
 names = os.listdir(img_dir)
+names.sort(key=lambda x: int(x[:-4]))
 images = []
 for name in names:
     img_path = os.path.join(img_dir, name)
