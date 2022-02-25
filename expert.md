@@ -138,9 +138,9 @@ After getting the video frames, we need to stitch the video frames to get the pa
 
 Execute `compound_picture.py`, the result is final-1.jpg (original image) final-2.jpg (The image we processed for the user), the user can choose according to their actual situation and save it in the `Vedio_util` folder:
 
-final-1：![final-1](dsfsaewqwd.assets/final-1.png)
+final-1：![final-1](dsfsaewqwd.assets/final-1.jpg)
 
-final-2：![final-2](dsfsaewqwd.assets/final-2.png)
+final-2：![final-2](dsfsaewqwd.assets/final-2.jpg)
 
 
 
