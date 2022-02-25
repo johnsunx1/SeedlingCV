@@ -88,7 +88,7 @@ We assign an id to each vacancy, and the id is assigned according to the positio
 
 ## 2.2 Project download
 
-`$ git clone 仓库地址  # clone repo` 
+`$ git clone https://github.com/johnsunx1/SeedlingCV.git  # clone repo` 
 
 `$ cd Wheat`
 
